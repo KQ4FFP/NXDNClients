@@ -558,6 +558,9 @@
 # 31444 Rhode Island Digital Link
 31444	18.219.32.21	41400
 
+# 31473 TARA Talk Sys
+31473 170.187.203.60 41400
+
 # 31490 utah bridge to dmr 314900
 31490	utah00.utahdrn.org 41400
 
